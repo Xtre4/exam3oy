@@ -1,0 +1,132 @@
+.main-item{
+    text-align: center;
+}
+.main-ota{
+display: flex;
+width: 864px;
+/* height: 200px; */
+flex-wrap: wrap;
+margin-left: 288px;
+margin-top: 120.26px;
+
+
+}
+.main-text2{
+font-weight: 700;
+font-size: 36px;;
+line-height: 120%;
+letter-spacing: 0px;
+color: white;
+font-size: 30px;
+}
+
+.main-card2{
+    background-image: url('../img/image\ 4\ \(1\).png');
+    background-repeat: no-repeat;
+    height: 511px;
+    display: flex;
+    justify-content: space-between;
+    background-size: cover;
+}
+.main-left{
+width: 750px;
+margin-left: 170px;
+margin-top: 138px;
+}
+.main-btn2{
+    width: 189px;
+    height: 47px;
+    background-color: #DE2E54CC;
+    border-radius: 8px;
+    color: white;
+    font-size: 15px;
+    margin-top: 49px;
+}
+
+.main-img{
+    margin-top: 30px;
+}
+
+
+
+.header-btn{
+font-weight: 700;
+font-size: 15px;
+line-height: 150%;
+letter-spacing: 2px;
+text-transform: uppercase;
+height: 50px;
+width: 220px;
+border: 2px solid red;
+border-radius: 5px;
+background-color: white;
+color: red;
+}
+.main-btn2:hover{
+    background-color: white;
+    color: red;
+}
+.main-bola{
+    display: flex;
+    width: 864px;
+    gap: 25px;
+    padding-bottom: 80px;
+}
+.tugma2{
+    margin-top: 50px;
+    background-color: red;
+    color: black;
+    width: 200px;
+    height: 50px;
+    padding: 12px;
+    &:hover{
+        background-color: white;
+        color: black;
+    }
+}
+
+.header-left{
+    margin-left: 100px;
+    font-size: 36px;
+    position: absolute;
+    color: white;
+}
+.orqafon{
+    margin-left: 50px;
+}
+
+.mainboladiv1{
+    width: 700px;
+    height: 178px;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+}
+.mainh2{
+    color: white;
+    font-size: 36px;
+    line-height: 120%;
+    letter-spacing: 0px;
+}
+.mainbutton1{
+    width: 181px;
+    height: 43px;
+    background-color: #DE2E54CC;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+.section1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-item-card{
+    padding-bottom: 30px;
+}
+
+
+
+
+

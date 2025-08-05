@@ -1,0 +1,80 @@
+.footer{
+    padding: 24px 0;
+    background-color: #222222;
+    display: flex;
+}
+.dis{
+    display: flex;
+    gap: 10px;
+    font-size: 24px;
+    align-items: center;
+}
+.pushti{
+    color: #DE2E54;
+    font-size: 18px;
+}
+.songiul{
+    display: flex;
+    gap: 32px;
+}
+.oq{
+    color: white;
+    font-size: 18px;
+}
+.fotr{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section3{
+    margin-top: 342px;
+    background-color: #0EB4C1;
+}
+.sec3h2{
+    text-align: center;
+    font-size: 64px;
+    padding-top: 64px   ;
+}
+.iframen{
+    border-radius: 10px;
+}
+.sec3-divota{
+    padding-top: 111px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+.sec3boladiv{
+    background-color: white;
+    width: 540px;
+    height: 331px; 
+    border-radius: 10px;
+}
+.tasdiqnoma{
+    padding: 27px 40px;
+}
+.formli{
+    border: solid 2px rgb(132, 131, 131);
+    border-radius: 2px;
+    width: 469px;
+    height: 40px;
+    &:hover{
+        border: solid 2px rgb(0, 0, 0);
+    }
+}
+.tasdiqnoma{
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}
+.songibutton{
+    border: none;
+    background-color: #38CC8B;
+    width: 470px;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+.oq:hover{
+    color: red;
+}

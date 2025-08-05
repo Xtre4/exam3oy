@@ -1,0 +1,32 @@
+.header-bosh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 180px;
+    margin-top: 20px;
+
+}
+.tugma1{
+    color: black;
+    width: 180px;
+    height: 47px;
+    background-color: white;
+    border-radius: 8px;
+    border: 2px solid red;
+border-radius: 5px;
+color: red;
+line-height: 150%;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+}
+.tugma1:hover{
+    background-color: red;
+    color: white;
+}
+.header-link:hover{
+    color: red;
+}
+.header-link{
+    color: black;
+}
